@@ -5,6 +5,4 @@
  clear the input field with a clear button.
  
  keep chaining mathematical operations together until you hit the equal button, and the calculator will tell you the correct output.
- 
- view here: http://mattdavida.x10host.com/Calculator/calculator.html
 
